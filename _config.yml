@@ -1,0 +1,9 @@
+title: "Aditya Tanna"
+description: "Personal website • Resume • Publications"
+url: "https://yourname.github.io"   # update after publish
+markdown: kramdown
+
+# Optional: show future posts if you later add a blog
+future: true
+
+# Keep it simple: no theme required

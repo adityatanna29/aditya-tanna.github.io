@@ -23,7 +23,7 @@ title: Home
     <p class="muted">Email: <a href="mailto:aditya.tanna@arya.ai">aditya.tanna@arya.ai</a></p>
   </div>
   <div>
-    <img class="headshot" src="/assets/profile.jpg" alt="Aditya Tanna" />
+    <img class="headshot" src="/assets/profile.png" alt="Aditya Tanna" />
   </div>
 </div>
 

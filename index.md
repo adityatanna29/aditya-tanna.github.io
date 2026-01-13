@@ -1,7 +1,10 @@
----
+<img width="1501" height="846" alt="image" src="https://github.com/user-attachments/assets/c409a2d1-0b0f-49f8-8800-955dc2b17b16" />---
 layout: default
 title: Home
 ---
+
+
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.png">
 
 <div class="home-hero">
   <div class="bio">
